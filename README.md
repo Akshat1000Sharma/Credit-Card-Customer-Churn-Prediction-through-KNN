@@ -181,15 +181,16 @@ Future enhancements may include:
 - Jupyter Notebook
 
 ## Project Structure
+
+```
 Credit-Card-Churn-Prediction/
 │
 ├── BasicDataAnalysis.ipynb
 ├── DetailedDataAnalysis.ipynb
 ├── CorelationGraphs.ipynb
 ├── Model.ipynb
-│
-├── README.md
-
+└── README.md
+```
 
 ## Applications
 
